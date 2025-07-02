@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @4daysonend
-- 👀  AWS, GCP (cloud)
+- 👀  AWS, GCP
 - 🌱  I’m currently learning python and DevOp Tools (Terraform, Kubernetes✅)
 - ☸️☸️☸️ CKA recipient going for the CKAD (Certified Kubernetes Application Developer) and CKS (Certifed Kubernetes Security)
 - 💞️  I’m looking to collaborate on Cloud Native Projects as a Infrastructure Engineer
